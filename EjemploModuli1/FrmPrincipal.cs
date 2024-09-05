@@ -22,5 +22,16 @@ namespace EjemploModuli1
             Form1 objForm1 = new Form1();
             objForm1.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btn2_Click(object sender, EventArgs e)
+        {
+            Form2 objForm2 = new Form2();
+            objForm2.Show();
+        }
     }
 }
