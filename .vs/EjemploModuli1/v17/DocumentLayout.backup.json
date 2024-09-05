@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|c:\\users\\josechiru\\documents\\visual studio 2022\\proyecto\\ejemplomoduli1\\ejemplomoduli1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|solutionrelative:ejemplomoduli1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|c:\\users\\josechiru\\documents\\visual studio 2022\\proyecto\\ejemplomoduli1\\ejemplomoduli1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|solutionrelative:ejemplomoduli1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|c:\\users\\josechiru\\documents\\visual studio 2022\\proyecto\\ejemplomoduli1\\ejemplomoduli1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|solutionrelative:ejemplomoduli1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|c:\\users\\josechiru\\documents\\visual studio 2022\\proyecto\\ejemplomoduli1\\ejemplomoduli1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DB2D2C7-762E-41E0-8062-F8D741EEA100}|EjemploModuli1\\EjemploModuli1.csproj|solutionrelative:ejemplomoduli1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploModuli1\\Form1.cs",
+              "ToolTip": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\Form1.cs",
+              "RelativeToolTip": "EjemploModuli1\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:30:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploModuli1\\Form1.cs",
+              "ToolTip": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjemploModuli1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:18:14.11Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "EjemploModuli1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\FrmPrincipal.cs",
+              "RelativeToolTip": "EjemploModuli1\\FrmPrincipal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:52:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "EjemploModuli1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\JoseChiru\\Documents\\Visual Studio 2022\\Proyecto\\EjemploModuli1\\EjemploModuli1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjemploModuli1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:52:39.553Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
