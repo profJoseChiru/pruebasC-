@@ -53,6 +53,7 @@
             this.btn3.TabIndex = 2;
             this.btn3.Text = "Ejemplo 3";
             this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btn3_Click);
             // 
             // btn2
             // 
