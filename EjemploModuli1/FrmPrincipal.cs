@@ -32,6 +32,10 @@ namespace EjemploModuli1
         {
             Form2 objForm2 = new Form2();
             objForm2.Show();
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            FrmEjemplo3 frmEjemplo3 = new FrmEjemplo3();
+            frmEjemplo3.Show();
         }
     }
 }
